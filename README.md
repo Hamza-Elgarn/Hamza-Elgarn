@@ -59,8 +59,8 @@
 
 ## 📫 Get In Touch
 - 📧 Email: [elgarnhamza2004@gmail.com](mailto:elgarnhamza2004@gmail.com)
-- 💼 LinkedIn: [Your Profile Link Here]
-- 🌐 Website: [Your Portfolio Link Here]
+- 💼 LinkedIn: [https://www.linkedin.com/in/hamza-elgarn-4775133a6/]
+- 🌐 Website: [https://hamza-portfolio-ecru.vercel.app/]
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=Hamza-Elgarn&color=FF5722&style=flat-square&label=PROFILE+VIEWS" />
